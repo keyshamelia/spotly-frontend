@@ -24,7 +24,7 @@
     { label: 'Rooms',     path: '/dashboard/rooms',    icon: <DoorOpen size={20} /> },
     // { label: 'Categories', path: '/dashboard/analytics', icon: <Tag size={20} /> },
     { label: 'Bookings',  path: '/dashboard/bookings', icon: <CalendarCheck size={20} /> },
-    { label: 'Users',     path: '/dashboard/users',    icon: <Users size={20} /> },
+    { label: 'Login Log',     path: '/dashboard/login-log',    icon: <Users size={20} /> },
   ];
 
   export const MobileNavigation: React.FC = () => {
